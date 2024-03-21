@@ -11,4 +11,4 @@ Component versions:
     - OpenCV 4.8.1
 
 
-This repository is free to use for anyone who needs a base for their projects.
+This repository is free to use for anyone who needs a starting point for their projects.
